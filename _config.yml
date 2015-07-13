@@ -1,14 +1,14 @@
 # config
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
-bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.'
-location: Location
-website: Website
+cover: /img/img-bg.jpg
+bio: 'A designer, developer and entrepreneur. Spends his time travelling the world with a single backpack and head full of ideas'
+location: Chiang Mai, Thailand
+website: http://kyrisu.com
 
 # Add social network profile links
 social:
-  twitter: https://twitter.com/**profile**
-  google+: https://plus.google.com/**profile**
-  github: https://github.com/**profile**
+  twitter: https://twitter.com/kyrisu
+  google+: https://plus.google.com/+KrystianPaszkiewicz
+  github: https://github.com/kyrisu
 
 #opengraph
 twitter_profile: 
